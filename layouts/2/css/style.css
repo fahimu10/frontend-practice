@@ -1,0 +1,57 @@
+.container{
+	width:  800px;
+	height:  800px;
+	background-color:  bisque;
+	color:  white;
+	font-weight:  bold;
+	font-size: 33px;
+	margin-left:  auto;
+	margin-right:  auto;
+	text-align:  center;
+}
+.list{
+    width:  20%;
+    height:  666.66px;
+    background-color:  crimson;
+    float:  left;
+}
+.info{
+    width:  80%;
+    height:  666.66px;
+    background-color:  blue;
+    float:  left;
+}
+.search{
+    width:  100%;
+    height:  133.33px;
+    background-color:  blueviolet;
+    float:  left;
+}
+.introduction{
+    width:  50%;
+    height:  266.66px;
+    background-color:  green;
+    float:  left;
+}
+.story{
+    width: 50%;
+    height: 266.66px;
+    background-color: #ffbc00;
+    float:  left;
+}
+.about{
+    width: 100%;
+    height: 266.66px;
+    background-color: fuchsia;
+    float:  left;
+}
+.footer{
+    width:  100%;
+    height:  133.33px;
+    background-color:  chartreuse;
+    float:  left;
+}
+p{
+
+padding: auto;
+}

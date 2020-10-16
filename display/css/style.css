@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+img{
+    max-width: 100%;
+    display: block;
+}
+*{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.container{padding:  0;margin: 0 auto;width:  1200px;overflow:  hidden;}
+header{}
+.logo{
+    width:  30%;
+    float:  left;
+}
+.logo a img {}
+.social{
+    width:  70%;
+    float:  left;
+}
+.social ul{list-style:  none;text-align:  right;}
+.social ul li{
+    display:  inline-block;
+    padding-left: 10px;
+}
+.social ul li img{}
+.browse{
+    margin:  10px 0;
+}
+.browse ul{
+    list-style:  none;
+    padding-left: 0;
+}
+.browse ul li{
+    display:  inline-block;
+    text-align:  left;
+    color:  #737373;
+    padding-right:  10px;
+    font-weight:  bold;
+}
+.browse ul li:hover{
+    color: #2DCC70;
+}
+.banner{background: url(../images/bannerbg.jpg);}
+.banner img{
+    margin:  0 auto;
+    transform: translateY(80px);
+    display:  block;
+}
+.portfolio {
+    padding: 25px 0;
+    text-align:  center;
+    margin-top: 85px;
+    margin-bottom: 15px;
+}
+.portfolio p{
+    color:  gray;
+    text-align:  center;
+    text-transform:  uppercase;
+}
+.portfolio a{text-decoration:  none;border: solid 1px #2DCC70;background: #2DCC70;color:  white;padding: 10px 10px;display:  inline-block;margin-top:  10px;}
+.about{
+    padding: 25px 0;
+    background: #F1F1F1;
+}
+.about .left{
+    width:  40%;
+    float:  left;
+}
+.about .left img{
+    margin:  0 auto;
+}
+.about .right{
+    width: 60%;
+    float:  left;
+    color:  gray;
+}
+.about .right h1{
+    font-weight:  bold;
+    text-align:  left;
+    margin-top: 25px;
+}
+.about .right p{
+    text-align:  left;
+    margin-top: 40px;
+}
+.find{
+    background:  #222222;
+    color:  white;
+    padding: 30px 0;
+}
+.find .left{
+    width:  70%;
+    float:  left;
+}
+.find .left h1{
+    margin:  0;
+    margin-top:  5px;
+    text-align:  center;
+}
+.find .right{
+    width:  30%;
+    float:  left;
+}
+.find .right a{
+    text-decoration:  none;
+    text-decoration: none;
+    border: solid 1px #2DCC70;
+    background: #2DCC70;
+    color: white;
+    padding: 10px 10px;
+    display: inline-block;
+    margin:  0 auto;
+}
+footer{
+    background:  #F1F1F1;
+    color:  gray;
+    padding:  15px 0;
+}
+.copyright{
+    width:  50%;
+    float:  left;
+}
+.copyright p{}
+.footer-browse{
+    width:  50%;
+    float:  left;
+    text-align:  right;
+}
+.footer-browse p{}
+header .container {
+    border-bottom: solid 1px grey;
+    padding:  15px 0;
+}
+.banner .container {
+    overflow:  visible;
+}

@@ -1,0 +1,81 @@
+.container{
+    width: 1000px;
+    height:  1000px;
+    background-color: black;
+    margin-left:  auto;
+    margin-right:  auto;
+    color: white;
+    text-align:  center;
+    font-size:  25px;
+    font-weight: bold;
+}
+.header{
+    width:  100%;
+    height:  100px;
+    background-color:  chartreuse;
+}
+.logo{width: 20%;height:  100px;background-color:  saddlebrown;float:  left;}
+.menu{
+    width:  80%;
+    height:  100px;
+    background-color:  blue;
+    float:  left;
+}
+.description{
+    width:  100%;
+    height:  400px;
+    background-color: red;
+    float:  left;
+}
+.one{
+	
+width:  50%;
+	
+height:  400px;
+	
+float:  left;
+}
+.info{
+    width:  100%;
+    height: 400px;
+    background-color:  peru;
+}
+.clients{
+    width: 100%;
+    height:  200px;
+    background-color:  green;
+    float:  left;
+}
+.projects{
+    width: 100%;
+    height:  200px;
+    background-color:  yellowgreen;
+    float:  left;
+}
+.overview{
+    width:  50%;
+    height:  400px;
+    background-color:  orange;
+    float:  left;
+}
+.footer{
+    width:  100%;
+    height: 200px;
+    background-color:  pink;
+    float: left;
+}
+.about{
+    width:  100%;
+    height:  100px;
+    background-color:  crimson;
+    float: left;
+}
+.contact{
+    width:  100%;
+    height:  100px;
+    background-color: #131334;
+    float:  left;
+}
+p{
+    padding: auto;
+}
